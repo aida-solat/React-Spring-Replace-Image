@@ -1,4 +1,4 @@
-import React, { Suspense, useReducer, useEffect } from "react";
+import React, { Suspense, useReducer } from "react";
 import { tw, setup } from "twind";
 import { a, useSpring } from "@react-spring/web";
 import { useImage } from "react-image";
